@@ -1,0 +1,334 @@
+{
+  "name": "Computer Science",
+  "total_credit_required": 126,
+  "classifications": [
+    {
+      "name": "Freshman",
+      "total_credit_required": 36,
+      "courses": [
+        {
+          "name": "BIOL 113",
+          "number": "BIOL 113",
+          "credit_hrs": 4,
+          "prerequisites": []
+        },
+        {
+          "name": "BIOL 115",
+          "number": "BIOL 115",
+          "credit_hrs": 1,
+          "prerequisites": []
+        },
+        {
+          "name": "FYE 101",
+          "number": "FYE 101",
+          "credit_hrs": 1,
+          "prerequisites": []
+        },
+        {
+          "name": "FYE 102",
+          "number": "FYE 102",
+          "credit_hrs": 1,
+          "prerequisites": []
+        },
+        {
+          "name": "ENG 101",
+          "number": "ENG 101",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "ENG 102",
+          "number": "ENG 102",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "HIST 101",
+          "number": "HIST 101",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "HIST 104",
+          "number": "HIST 104",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "MATH 153",
+          "number": "MATH 153",
+          "credit_hrs": 4,
+          "prerequisites": []
+        },
+        {
+          "name": "MATH 154",
+          "number": "MATH 154",
+          "credit_hrs": 4,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 110",
+          "number": "CS 110",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 120",
+          "number": "CS 120",
+          "credit_hrs": 3,
+          "prerequisites": []
+        }
+      ]
+    },
+    {
+      "name": "Sophomore",
+      "total_credit_required": 36,
+      "courses": [
+        {
+          "name": "CS 236",
+          "number": "CS 236",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 310",
+          "number": "CS 310",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 336",
+          "number": "CS 336",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 345",
+          "number": "CS 345",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "ECON 201",
+          "number": "ECON 201",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "ART 105",
+          "number": "ART 105",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "FREN 101",
+          "number": "FREN 101",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "FREN 102",
+          "number": "FREN 102",
+          "credit_hrs": 3,
+          "prerequisites": []
+        }
+      ]
+    },
+    {
+      "name": "Junior",
+      "total_credit_required": 36,
+      "courses": [
+        {
+          "name": "CS 310",
+          "number": "CS 310",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 336",
+          "number": "CS 336",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 345",
+          "number": "CS 345",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 420",
+          "number": "CS 420",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 440",
+          "number": "CS 440",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 450",
+          "number": "CS 450",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "PHYS 111",
+          "number": "PHYS 111",
+          "credit_hrs": 4,
+          "prerequisites": []
+        },
+        {
+          "name": "PHYS 112",
+          "number": "PHYS 112",
+          "credit_hrs": 4,
+          "prerequisites": []
+        }
+      ]
+    },
+    {
+      "name": "Senior",
+      "total_credit_required": 36,
+      "courses": [
+        {
+          "name": "CS 420",
+          "number": "CS 420",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 440",
+          "number": "CS 440",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 450",
+          "number": "CS 450",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 461",
+          "number": "CS 461",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 462",
+          "number": "CS 462",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 463",
+          "number": "CS 463",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 470",
+          "number": "CS 470",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 480",
+          "number": "CS 480",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 490",
+          "number": "CS 490",
+          "credit_hrs": 3,
+          "prerequisites": []
+        }
+      ]
+    },
+    {
+      "name": "Electives",
+      "total_credit_required": 18,
+      "courses": [
+        {
+          "name": "CS 461",
+          "number": "CS 461",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 462",
+          "number": "CS 462",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 463",
+          "number": "CS 463",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 470",
+          "number": "CS 470",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 480",
+          "number": "CS 480",
+          "credit_hrs": 3,
+          "prerequisites": []
+        },
+        {
+          "name": "CS 490",
+          "number": "CS 490",
+          "credit_hrs": 3,
+          "prerequisites": []
+        }
+      ]
+    }
+  ],
+  "electives": {
+    "courses": [
+      {
+        "name": "CS 461",
+        "number": "CS 461",
+        "credit_hrs": 3,
+        "prerequisites": []
+      },
+      {
+        "name": "CS 462",
+        "number": "CS 462",
+        "credit_hrs": 3,
+        "prerequisites": []
+      },
+      {
+        "name": "CS 463",
+        "number": "CS 463",
+        "credit_hrs": 3,
+        "prerequisites": []
+      },
+      {
+        "name": "CS 470",
+        "number": "CS 470",
+        "credit_hrs": 3,
+        "prerequisites": []
+      },
+      {
+        "name": "CS 480",
+        "number": "CS 480",
+        "credit_hrs": 3,
+        "prerequisites": []
+      },
+      {
+        "name": "CS 490",
+        "number": "CS 490",
+        "credit_hrs": 3,
+        "prerequisites": []
+      }
+    ]
+  }
+}
