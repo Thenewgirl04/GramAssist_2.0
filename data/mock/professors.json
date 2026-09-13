@@ -1,0 +1,58 @@
+{
+  "professors": [
+    {
+      "professor_id": "P001",
+      "name": "Dr. Marcus Reed",
+      "department": "Computer Science",
+      "rating": 4.6,
+      "difficulty": 3.2,
+      "would_take_again": 88,
+      "num_ratings": 42
+    },
+    {
+      "professor_id": "P002",
+      "name": "Dr. Alicia Bennett",
+      "department": "Computer Science",
+      "rating": 4.2,
+      "difficulty": 2.8,
+      "would_take_again": 84,
+      "num_ratings": 31
+    },
+    {
+      "professor_id": "P003",
+      "name": "Prof. David Carter",
+      "department": "Computer Science",
+      "rating": 3.7,
+      "difficulty": 4.1,
+      "would_take_again": 69,
+      "num_ratings": 27
+    },
+    {
+      "professor_id": "P004",
+      "name": "Dr. Naomi Brooks",
+      "department": "Computer Science",
+      "rating": 4.8,
+      "difficulty": 3.7,
+      "would_take_again": 94,
+      "num_ratings": 53
+    },
+    {
+      "professor_id": "P005",
+      "name": "Prof. Andre Collins",
+      "department": "Computer Science",
+      "rating": 3.4,
+      "difficulty": 4.4,
+      "would_take_again": 61,
+      "num_ratings": 19
+    },
+    {
+      "professor_id": "P006",
+      "name": "Dr. Jasmine Foster",
+      "department": "Computer Science",
+      "rating": 4.4,
+      "difficulty": 2.9,
+      "would_take_again": 90,
+      "num_ratings": 36
+    }
+  ]
+}

@@ -7,7 +7,7 @@ load_dotenv()
 
 LLAMA_CLOUD_KEY = os.getenv("LLAMA_CLOUD_API_KEY")
 
-file_path = Path("../data/raw/CS-Curriculum.pdf")
+file_path = Path("../../data/raw/CS-Curriculum.pdf")
 
 def pdf_extractor(file_path: Path):
     client = LlamaCloud(api_key=LLAMA_CLOUD_KEY)
