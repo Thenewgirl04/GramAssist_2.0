@@ -1,10 +1,11 @@
 [project]
 name = "gramassist-2-0"
 version = "0.1.0"
-description = "Add your description here"
+description = "An AI academic advisor for Grambling State University students"
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.12"
 dependencies = [
+    "chainlit>=2.9.0",
     "dotenv>=0.9.9",
     "faiss-cpu>=1.13.0",
     "google-adk>=0.0.1",

@@ -1,5 +1,6 @@
 import json
 from utils.name_normalizer import normalize_professor_name
+from project_paths import PROFESSORS_PATH
 
 def get_professor(professor_name: str):
     """
@@ -15,7 +16,7 @@ def get_professor(professor_name: str):
             Available professor rating information if found, otherwise an
             error message.
     """
-    with open("data/mock/professors.json", "r") as file:
+    with PROFESSORS_PATH.open(encoding="utf-8") as file:
         data = json.load(file)
 
     target_professor = normalize_professor_name(professor_name)
@@ -26,4 +27,3 @@ def get_professor(professor_name: str):
             return professor
 
     return {"error": "professor not found"}
-

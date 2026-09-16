@@ -2,12 +2,13 @@ import os
 from llama_cloud import LlamaCloud
 from dotenv import load_dotenv
 from pathlib import Path
+from project_paths import CURRICULUM_PDF_PATH
 
 load_dotenv()
 
 LLAMA_CLOUD_KEY = os.getenv("LLAMA_CLOUD_API_KEY")
 
-file_path = Path("../../data/raw/CS-Curriculum.pdf")
+file_path = CURRICULUM_PDF_PATH
 
 def pdf_extractor(file_path: Path):
     client = LlamaCloud(api_key=LLAMA_CLOUD_KEY)

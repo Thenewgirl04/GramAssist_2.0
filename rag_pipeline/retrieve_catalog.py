@@ -1,10 +1,7 @@
 from langchain_community.vectorstores import FAISS
 from langchain_huggingface import HuggingFaceEmbeddings
 from functools import lru_cache
-from pathlib import Path
-
-PROJECT_ROOT = Path(__file__).resolve().parent.parent
-FAISS_PATH = PROJECT_ROOT / "data" / "faiss" / "catalog"
+from project_paths import CATALOG_INDEX_PATH
 
 class CatalogRetriever:
     def __init__(self, faiss_path):
@@ -26,7 +23,7 @@ class CatalogRetriever:
 @lru_cache(maxsize=1)
 def get_catalog_retriever():
     catalog = CatalogRetriever(
-        faiss_path=FAISS_PATH
+        faiss_path=CATALOG_INDEX_PATH
     )
 
     return catalog.create_retriever()

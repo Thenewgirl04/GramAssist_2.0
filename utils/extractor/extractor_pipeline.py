@@ -1,9 +1,10 @@
 from pathlib import Path
 from utils.extractor.curriculum_llm_extractor import extract_curriculum
 from utils.extractor.pdf_extractor import pdf_extractor
+from project_paths import CURRICULUM_JSON_PATH, CURRICULUM_PDF_PATH
 
-input_path = Path("data/raw/CS-Curriculum.pdf")
-output_path = Path("data/structured/cs_curriculum.json")
+input_path = CURRICULUM_PDF_PATH
+output_path = CURRICULUM_JSON_PATH
 
 def pipeline(input_path):
     markdown_file = pdf_extractor(input_path)
@@ -12,5 +13,4 @@ def pipeline(input_path):
     output_path.write_text(
         json_generated.model_dump_json(indent=2) )
     return json_generated
-
 

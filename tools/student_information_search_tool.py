@@ -1,4 +1,5 @@
 import json
+from project_paths import STUDENTS_PATH
 
 
 def get_student(student_id: str):
@@ -14,7 +15,7 @@ def get_student(student_id: str):
         Returns:
             The student's academic profile if found, otherwise an error message.
         """
-    with open("data/mock/students.json", "r") as file:
+    with STUDENTS_PATH.open(encoding="utf-8") as file:
         data = json.load(file)
 
     for student in data["students"]:
@@ -22,4 +23,3 @@ def get_student(student_id: str):
             return student
 
     return {"error": "student not found"}
-
