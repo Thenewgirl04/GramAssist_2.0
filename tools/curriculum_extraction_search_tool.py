@@ -1,6 +1,5 @@
 import json
-
-CURRICULUM_PATH = "data/structured/cs_curriculum.json"
+from project_paths import CURRICULUM_JSON_PATH
 
 def get_classification_curriculum(classification: str) -> dict:
     """
@@ -14,7 +13,7 @@ def get_classification_curriculum(classification: str) -> dict:
             The courses and total required credit hours for the classification.
     """
     
-    with open(CURRICULUM_PATH, "r") as file:
+    with CURRICULUM_JSON_PATH.open(encoding="utf-8") as file:
         curriculum = json.load(file)
 
     for level in curriculum["classifications"]:
@@ -40,7 +39,7 @@ def get_courses(course_numbers: list[str]) -> list[dict]:
         A list containing the information for each requested course.
         Courses that are not found are returned with an error message.
     """
-    with open(CURRICULUM_PATH, "r") as file:
+    with CURRICULUM_JSON_PATH.open(encoding="utf-8") as file:
         curriculum = json.load(file)
 
     all_courses = []

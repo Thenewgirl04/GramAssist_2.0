@@ -3,11 +3,12 @@ from pathlib import Path
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter, MarkdownHeaderTextSplitter
 from langchain_huggingface import HuggingFaceEmbeddings
+from project_paths import CATALOG_INDEX_PATH, CATALOG_MARKDOWN_PATH
 
 class CatalogIngestor:
     def __init__(self, input_path:Path, faiss_path: Path):
         self.input_path = input_path
-        self. headers_to_split = [
+        self.headers_to_split = [
                     ("#", "Header 1"),
                     ("##", "Header 2"),
                     ("###", "Header 3"),
@@ -51,8 +52,8 @@ class CatalogIngestor:
 
 if __name__ == "__main__":
     ingestor = CatalogIngestor(
-        input_path=Path("../data/raw/GSU Catalog 2024-2026 cleaned.md"),
-        faiss_path=Path("../data/faiss/catalog")
+        input_path=CATALOG_MARKDOWN_PATH,
+        faiss_path=CATALOG_INDEX_PATH,
     )
 
     ingestor.create_faiss_index()

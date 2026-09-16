@@ -1,6 +1,13 @@
 .idea/
 .venv/
 .env
+.chainlit/translations/
+.chainlit/*.db
+advisor_agent/.adk/
+
+__pycache__/
+*.py[cod]
+*$py.class
 
 tools/__pycache__/
 utils/__pycache__/

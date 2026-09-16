@@ -1,5 +1,6 @@
 import re
 from pathlib import Path
+from project_paths import CATALOG_MARKDOWN_PATH
 
 
 def remove_page_numbers(file_path: Path):
@@ -18,6 +19,5 @@ def remove_page_numbers(file_path: Path):
 
 if __name__ == "__main__":
     remove_page_numbers(
-        Path("../data/raw/GSU Catalog 2024-2026 cleaned.md")
+        CATALOG_MARKDOWN_PATH
     )
-
