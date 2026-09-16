@@ -105,7 +105,6 @@ ORGANIZATIONAL CHART
 
 \*Dual Responsibilities
 
-4
 
 ## ACADEMIC CALENDARS
 
@@ -151,7 +150,6 @@ ORGANIZATIONAL CHART
 | 17, Tuesday | Deadline for submission of Final Grades for Non-Graduating Students |
 | 20, Friday | University Closes at 11:30am |
 
-5
 
 # 2025 Spring Semester
 
@@ -202,7 +200,6 @@ ORGANIZATIONAL CHART
 | 9, Friday | 2025 SPRING COMMENCEMENT |
 | 9, Friday | Spring Semester Ends |
 
-6
 
 ## 2025 Summer Session I
 
@@ -244,7 +241,6 @@ ORGANIZATIONAL CHART
 | 15, Tuesday | Graduation Certifications Due |
 | 18, Friday | Summer Degrees Conferred |
 
-7
 
 # 2025 Fall Semester
 
@@ -295,7 +291,6 @@ ORGANIZATIONAL CHART
 | 10, Wednesday | Deadline for submission of Final Grades for Non-Graduating Students |
 | 19, Friday | University Closes at 11:30am |
 
-8
 
 ## 2026 Spring Semester
 
@@ -345,7 +340,6 @@ ORGANIZATIONAL CHART
 | 15, Friday | 2026 SPRING COMMENCEMENT |
 | 15, Friday | Spring Semester Ends |
 
-9
 
 ## 2026 Summer Session I
 
@@ -415,7 +409,6 @@ ORGANIZATIONAL CHART
 
 31, Friday	Summer Degrees Conferred
 
-10
 
 ## INTRODUCTION
 
@@ -439,7 +432,6 @@ The University aims to produce graduates from its undergraduate programs who (1)
 
 Grambling State University emerged from the desire of African American farmers in rural north Louisiana who wanted to educate Black children in the northern and western parts of the state. In 1896, the North Louisiana Colored Agriculture Relief Association was formed to organize and operate a school.
 
-11
 
 After opening a small school west of what is now the town of Grambling, the Association requested assistance from Booker T. Washington of the Tuskegee Institute in Alabama. Charles P. Adams was sent to aid the group in organizing an industrial school, becoming its founder and first president.
 
@@ -459,7 +451,6 @@ On March 25, 1998, Dr. Steve A. Favors was named interim president at GSU. A lit
 
 As the year 2001 unfolded and the University prepared to celebrate its centennial year, it did so with a new leader at the helm. Dr. Neari Francois Warner was named acting president. An alumna and the first woman ever to lead the institution, Warner continued to pursue full implementation of the desegregation settlement.
 
-12
 
 The Board of Supervisors announced on March 26, 2004, the selection of Dr. Horace A. Judson as the seventh president of Grambling State University. He chartered a course to carry the University forward toward excellence in every dimension of its operation.
 
@@ -483,7 +474,6 @@ The University is located in the heart of Grambling, Louisiana, one-mile north o
 
 Grambling State University is accredited by the Southern Association of Colleges and Schools Commission on Colleges to award associate, baccalaureate, masters, and doctorate degrees. Contact the Southern
 
-13
 
 Association of Colleges and Schools Commission on Colleges at 1866 Southern Lane, Decatur, Georgia 30033 or call 404-679-4500 for questions about the accreditation of Grambling State University.
 
@@ -568,13 +558,11 @@ Southern Regional Honors Council
 
 Grambling State University is a constituent member of the University of Louisiana System. It is one of nine institutions of higher education which comprise the largest educational system in the State of Louisiana. The University of Louisiana System is one of four systems of public higher education in the State of Louisiana. The others are the Louisiana Community and Technical College System, Louisiana State University System, and the Southern University System. Each system is governed by its own management
 
-14
 
 board. Overall governance of higher education in the state is provided by the Louisiana Board of Regents.
 
 The faculty, staff, and students are afforded the opportunity to participate in campus governance through standing and ad hoc committees.
 
-15
 
 ## GENERAL INFORMATION
 
@@ -598,7 +586,6 @@ FERPA allows each institution the right to designate certain information concern
 
 Parents may access a dependent child’s records either by the student completing the Release of Information Consent form or providing written permission to the Registrar’s Office. Release of Information Consent Form or parents can provide their current 1040 tax form (front and back) to show that the child is their dependent.
 
-16
 
 For more detailed information concerning FERPA and the release of student educational records, please contact the Registrar’s Office or visit [https://www.gram.edu/offices/registrar/ferpa/](https://www.gram.edu/offices/registrar/ferpa/).
 
@@ -624,7 +611,6 @@ Grambling State University is committed to providing an environment of study and
 
 For more detailed information concerning Sexual Harassment & Power-Based Violence, please contact the Office for Civil Rights and Title IX at 318-274-2660 or visit [https://www.gram.edu/student-life/titleIX/#dropdown2](https://www.gram.edu/student-life/titleIX/#dropdown2).
 
-17
 
 ### Drug-Free Workplace
 
@@ -656,7 +642,6 @@ The major University facilities and residence halls are listed below.
 
 **Athletics**: Fredrick C. Hobdy Assembly Center, Men’s Gymnasium, Eddie G. Robinson Stadium, Stadium Support Building
 
-18
 
 **Student Life**: Dining Hall, Favrot Student Union, Food Court, Foster-Johnson Health Center, Intramural Center
 
@@ -676,7 +661,6 @@ Potential criminal or suspicious activity and emergencies on University property
 
 G Safe connects you directly with campus safety forces, while also providing convenience and helping you to save time. The app contains several features including Anonymous Tips, Emergency Resources, and an Emergency Button. The anonymous tips feature allows you to easily submit tips to campus safety forces anonymously. Tips can include safety concerns, suspicious activity, drug use or any other non-emergencies. You can also attach photos / videos when submitting a tip, as well as start a conversation with those who receive the tip. The emergency resources feature gives you access to updated emergency resources, procedures, and additional documentation at your fingertips. When the emergency button slider is activated, campus safety is directly called. Location information is also sent to help cut down on response time. Your location is NOT passively tracked. Location services are only used when you signal for assistance. Additional features such as Friend Watch, Safety Map, and Safe Transport give you extra safety & convenience. Friend Watch acts as a safety timer during potentially dangerous activities. Alerting your friends and/or family members if you’re in trouble. The app is 100% free and can be downloaded from your IOS App Store or Android Google Play.
 
-19
 
 ## LIBRARY AND LEARNING RESOURCE CENTER
 
@@ -702,7 +686,6 @@ KGRM-91.5 FM is a non-commercial, educational radio station licensed to Gramblin
 
 The Lab online radio station is a digital platform that provides students training and educational opportunities by broadcasting news, information and entertainment content. Students create, develop and host their own shows, serving as on-air personalities, producers, writers and directors. The Lab also offers them opportunities to engage with industry professionals and other experts via forums and site visits.
 
-20
 
 ### The Gramblinite
 
@@ -726,7 +709,6 @@ Grambling State University has a storied history in intercollegiate athletics fo
 
 The intercollegiate sports for men in which the University competes are baseball, basketball, cross country, football, and indoor and outdoor track and field. The intercollegiate sports for women in which the University competes are basketball, bowling, cross country, soccer, softball, tennis, indoor and outdoor track and field, and volleyball.
 
-21
 
 # UNDERGRADUATE ADMISSION AND FINANCIAL INFORMATION
 
@@ -753,7 +735,6 @@ All applicants must <u>submit the general admissions documents</u>, and new fres
 | HS GPA | 2.00 GPA |
 | Test Score | ACT Composite: 20 or SAT (Verbal and Math combined): 940 (before March 2016) SAT (Verbal and Math combined): 1030-1050 |
 
-22
 
 | Required Core 4 Curriculum | 19 units |
 | --- | --- |
@@ -783,7 +764,6 @@ All applicants must <u>submit the general admissions documents</u>, and new fres
 
 **Note:** *Admitted students with an ACT Math sub score of 16, 17 or 18 or an ACT English sub score of 15, 16 or 17 must participate in a Co-Requisite Program that requires enrollment in specific courses.*
 
-23
 
 | MINIMUM ADMISSION STANDARDS for TRANSFER STUDENTS |  |
 | --- | --- |
@@ -817,7 +797,6 @@ The following credentials must be received in the Office of Admissions and Recru
 
 **Note:** *Students that do not meet the minimum test score requirements on the ACT, SAT, or Accuplacer can substitute those test scores with Dual Enrollment college level Math and/or English courses or Developmental Writing and/or Introductory Algebra credits from Grambling Global Academy (Straighterline). Students must have earned a passing grade of C or better. ([https://global.gram.edu/](https://global.gram.edu/))*
 
-24
 
 * **Official College Transcript** (Transfer Applicants) - <u>*Transcripts cannot be faxed.*</u>
     
@@ -866,7 +845,6 @@ Transfer credits will be evaluated by the Admissions Office and added to the per
 
 The equivalence of a course taken at a state institution to a University course is determined by use of the Board of Regents transfer equivalency matrix. The equivalence of all other courses is determined by the appropriate department head. Credit is not given for course work taken at a college or university that is not regionally accredited. Courses accepted for credit are not necessarily used toward a degree.
 
-25
 
 Students can access the transfer articulation matrices that indicate the correlation of courses among Louisiana’s public colleges and universities by going to the Board of Regents website and viewing the *Master Course Articulation Matrix*.
 
@@ -906,7 +884,6 @@ International applicants are students who are not United States citizens. An int
 
 * GPA of 2.00 on a 4.00 scale,
 
-26
 
 * A minimum English score of 18 and Math score of 19 on the ACT; or a 25 Writing and Language Score or Math score of 510 on the SAT, or Evidence Based Reading/Writing Score of 500 on the SAT
 * Application for admission
@@ -949,7 +926,6 @@ Any prospective new student who is denied admission to Grambling State Universit
 
 **New Freshman Applicants**: A letter of appeal from the applicant and two (2) letters of recommendation from the principal, teacher or counselor must be submitted to the Admissions Appeal Committee. The prospective student will be notified of the decision by regular mail or email.
 
-27
 
 **Transfer Applicants:** A letter of appeal from the applicant describing special circumstances which contributed to student’s inability to meet the admission criteria, and two (2) letters of recommendation from an official at the school previously attended must be submitted to the Admissions Appeal Committee. The prospective student will be notified of the decision by regular mail or email.
 
@@ -1001,7 +977,6 @@ The Ambassadors is an organization open to non-resident and resident students wh
 
 * Must apply and gain a favorable rating during the interview process
 
-28
 
 *All students receiving the out-of-state fee exemption* must sign a statement of understanding which outlines the conditions for retaining the exemption. There will be an evaluation of the student’s academic standing at the end of the academic year to determine if the conditions of the exemption have been met. Any student who fails to retain the exemption will be notified, and any future registrations adjusted accordingly.
 
@@ -1049,7 +1024,6 @@ By means of the Advanced Placement Program, beginning students may be awarded co
 | Statistics | 3 | Mathematics 273 | 3 |
 | Studio Art Drawing | 3 | Art 101 | 3 |
 
-29
 
 | U.S. History | 3 | History 201 | 3 |
 | --- | --- | --- | --- |
@@ -1101,7 +1075,6 @@ Scores are provided by the Educational Testing Service with the exception of the
 | Calculus | Mathematics 153 | 50 | 3 |
 | Chemistry | Chemistry 111/112 | 50 | 6 |
 
-30
 
 | College Algebra | Mathematics 147 | 50 | 3 |
 | --- | --- | --- | --- |
@@ -1143,7 +1116,6 @@ The University offers three types of financial aid: gifts, loans, and student em
 
 * **Student Employment**: Federal Work-Study and Institutional Wages
 
-31
 
 ## Applying for Federal Financial Aid
 
@@ -1177,7 +1149,6 @@ The University reserves the right to review, adjust, or cancel financial aid awa
 
 * **Federal Work-Study:** Gives undergraduate and graduate students the opportunity to work part-
 
-32
 
 time while attending school. Students are paid once a month at the minimum wage rate. Students are eligible to work up to the amount of their authorized hours. The Office of Financial Aid must have the student’s electronic Student Aid Report (SAR) on file and the student must be making acceptable academic progress before awards are made. Students must apply early because of limited funding. Students must be authorized to work by the Office of Financial Aid and complete the required W-4, I-9, and L-4 forms. All forms can be printed from the financial aid website at [www.gram.edu](http://www.gram.edu/).
 
@@ -1205,7 +1176,6 @@ time while attending school. Students are paid once a month at the minimum wage 
 
 Cost of attendance is the estimated total amount it will cost to attend an institution. It is determined by the Office of Financial Aid using rules established by the U.S. Congress. Cost of attendance is based on average costs incurred by students, and it includes tuition, room/board, books, transportation, and personal miscellaneous expenses. These figures are used solely for the determination of financial aid and does not represent an amount owed to Grambling State University.
 
-33
 
 ## Grambling State University
 ## Estimated Cost of Attendance for Louisiana Residents Fall 2025 and Spring 2026
@@ -1251,7 +1221,6 @@ The following minimum criteria will be used in the selection process of the Acad
 | --- | --- | --- | --- |
 | 28 ACT (1300 SAT) or higher and GPA of 3.5 * | $7689.93 plus Room & Board charges (if on campus) | $9023 per year | $7683 per year plus Room and Board charges (if on campus) |
 
-34
 
 | 25-27 ACT (1200-1290 SAT) and GPA of 3.0 | $7689.93 per year | $9023 per year | $7689.93 per year |
 | --- | --- | --- | --- |
@@ -1291,7 +1260,6 @@ The criteria for the GAP fund is listed below is found at [https://www.gram.edu/
 
 This is restricted to members of the LAANG, 17-30 years of age, who are enrolled in public institutions. Members can claim tuition exemption for 5 separate academic years or a bachelor’s degree (whichever occurs first). Exemptions are disallowed for professional schooling, i.e. medicine or law. Applicants must be legal residents of Louisiana, registered voters, and in good standing with a Louisiana National Guard unit and must have a minimum cumulative GPA of 2.0. Tuition exemption is contingent upon satisfactory participation in the Louisiana National Guard. Contact the Headquarters Army and Air National Guard, Office of the Adjutant General, Jackson Barracks, New Orleans, LA 70146.
 
-35
 
 ## OFFICIAL ENROLLMENT
 
@@ -1331,7 +1299,6 @@ BY CLICKING ON THE "ACCEPT" BUTTON YOU ARE ACKNOWLEDGING THAT BY REGISTERING FOR
 
 By registering for courses at Grambling State University (“GSU”), you hereby acknowledge that you are entering into a contractual arrangement with GSU, whereby you agree to comply with all laws, rules and
 
-36
 
 regulations applicable to your registration, payment of fees, enrollment and attendance. Included in the rules and regulations that comprise the terms and conditions of this contract are those contained in any Grambling State University General Catalogue in effect during the years of your enrollment. In addition to reading, agreeing with and accepting all of the terms and conditions set forth in the Grambling State University General Catalogue, you must specifically acknowledge and authorize the following:
 
@@ -1357,7 +1324,6 @@ regulations applicable to your registration, payment of fees, enrollment and att
 
 *   **Any debt owed to the University as a result of the student’s failure to make required payments or failure to comply with the terms of the applicable program as governed by the Grambling State University General Catalogue will result in a violation of the terms and conditions of this contract. Failure to respond to demands for payment made by Grambling State**
 
-37
 
 University may result in such debts being transferred to the State of Louisiana Attorney General’s Office or other outside collection agency, for collection. Upon transmittal for collection, the student is responsible for collection/attorney’s fees in the amount of twenty-five percent (25%) of the unpaid debt, and all court costs.
 
@@ -1383,7 +1349,6 @@ All accounts are responsible for collection/attorney’s fees in the amount of t
 
 The charges shown in the following tables are for tuition, mailbox, meals, and room in traditional campus residence halls. The charges for housing in campus apartments and Tiger Village are higher. These charges can be viewed by visiting the University website.
 
-38
 
 ## Fall 2025/Spring 2026 – Undergraduate Fees
 Undergraduate Differential Tuition for the following Majors:
@@ -1435,7 +1400,6 @@ Engineering Technology, Nursing, Cybersecurity, Computer Science, Cloud Computin
 
 \*Note: Fees are subject to change without notification. Laboratory, nursing, distance learning, and course fees are assessed on specific courses and programs, per course. International students are assessed international student service and insurance fees per semester (rates vary depending up on age).
 
-39
 
 ## RESIDENCE HALL RELATED FEES AND REFUNDS
 
@@ -1479,7 +1443,6 @@ Students who do not complete the registration process, or who officially withdra
 
 Payments to students resulting from credit balances, work-study, wage and other payments are processed via direct deposit or a mailed check. This is the University’s official method of student payment and each new student must complete a Direct Deposit Authorization form. For students who do not complete the Direct Deposit Authorization form, the payments will be processed via check and mailed to the last known address on file with the University. If the check is returned in the mail, the funds will be turned over to the State of Louisiana-Unclaimed Property Department. **ALL PARENT PLUS LOAN REFUND CHECKS WILL BE MAILED HOME TO THE PARENT TO THE ADDRESS ON FILE WITH THE FAFSA.**
 
-40
 
 ## STUDENT LIFE
 
@@ -1499,7 +1462,6 @@ Each student has rights guaranteed by the U.S. Constitution, these freedoms cann
 
 *   **Assembly and Demonstration.** Students shall be free to organize and associate to promote their common interests. Assembly and demonstration, just as speech and expression within the institution in public places, are permitted subject to reasonable time, place, and manner restrictions for the maintenance of order, safety and security and is applicable to local, state and federal laws. Approval from the President or Vice President for Student Affairs is required for a designated area for demonstrations.
 
-41
 
 *   **Publication and Distribution.** Students shall be free to publish and to distribute their ideas in the form of newspapers, newsletters, leaflets, and the like, subject to time, place, and manner restrictions identified by the President or Vice President for Student Affairs.
 
@@ -1527,7 +1489,6 @@ Media contact for the University is the Director of University Communications. S
 
 *   To comply with all financial obligations as published in University documents and websites.
 
-42
 
 * To seek the help of faculty, other professionals and resources provided as you complete your degree requirements.
 
@@ -1571,7 +1532,6 @@ Students are encouraged to submit a Medical History to Med+Proctor.com along wit
 
 Non-prescription medications are kept in stock at the health center and are available to the students. However, if the nurse practitioner writes a prescription, the student is responsible for securing the purchase.
 
-43
 
 ## Medical Insurance
 
@@ -1607,7 +1567,6 @@ After completing the application process, the Disability Counselor will assist s
 
 SCWRC coordinates accommodations for students with medical/psychological disabilities. Students who are currently enrolled, or planning to enroll at the University, should obtain current documentation of their
 
-44
 
 disabilities if they wish to seek accommodations. The documentation should be made available to Student Counseling Services prior to the first day of classes.
 
@@ -1649,7 +1608,6 @@ ALL unmarried, full or part-time undergraduate students, whether emancipated or 
 
 *   In the case of a student who suffers from a serious medical condition (documentation required) or
 
-45
 
 requires special accommodations/specifications that the University is not able to meet; or,
 
@@ -1697,7 +1655,6 @@ The following are terms under which rooms in residence halls are assigned.
 
 * Upon accepting an assignment, a student understands that authorized University representatives will have access to the room when in conjunction with official University business.
 
-46
 
 * Room assignments and/or keys non- transferable.
 
@@ -1733,7 +1690,6 @@ For more information on joining the Student Government Association, please visit
 
 The Graduate Student Association (GSA) is an organization dedicated to making the Grambling State University (GSU) community aware of and responsive to the needs and concerns of its graduate students. The GSA serves as a professional and social support body for both graduate and undergraduate students. A key focus for the GSA is the recruitment and retention of undergraduates into graduate school.
 
-47
 
 The GSA encourages the development of interdependent relationships between its graduate students, professional students, and faculty, with a particular focus on faculty and staff. The organization will also support the establishment of interdependent relationships between graduate and undergraduate students, especially through mentorship with the Grambling State University Student Government Association. The GSA will cultivate communications with graduate and undergraduate students attending neighboring colleges and universities. Finally, the GSA will enhance and sustain relationships with the local and GSU communities, as well as the national graduate student community.
 
@@ -1765,7 +1721,6 @@ The Grambling State University "World Famed" Tiger Marching Band is known for it
 
 We encourage all prospective Grambling State University students who are interested in joining the World Famed and inquiring about scholarship opportunities, please do so by reaching out to the Director of Bands, Dr. Nikole Roebuck at [roebuckn@gram.edu](mailto:roebuckn@gram.edu).
 
-48
 
 ### Orchesis Dance Company
 
@@ -1811,7 +1766,6 @@ This area supports stress relief, physical wellness, and mental health through r
 
 Intramural sports offer structured competition in a wide variety of team and individual sports, designed to accommodate all skill levels—from beginners to seasoned athletes. These leagues and tournaments foster
 
-49
 
 school spirit and camaraderie in a friendly, yet competitive environment. Organized formats include round-robin play, single and double-elimination tournaments, and challenge matches. Current offerings include:
 
@@ -1877,7 +1831,6 @@ These experiences foster community engagement, promote healthy competition, and 
 
 Instructional classes are offered to teach and develop new skills, promote physical literacy, and enhance personal fitness and wellness. These classes are led by trained instructors and are open to all fitness levels.
 
-50
 
 Class offerings include:
 
@@ -1935,7 +1888,6 @@ All currently enrolled undergraduate and graduate students at Grambling State Un
 
 *   Varsity athletes are **not eligible** to participate in the intramural sport that corresponds to their varsity sport during the same academic year.
 
-51
 
 *   Any individual who has competed professionally in a given sport is **prohibited** from participating in that sport within the intramural program.
 
@@ -1973,7 +1925,6 @@ The Center for Career and Professional Development (CCPD) at Grambling State Uni
 
 The Center's dedication to nurturing the “total” student is reflected in its slogan, “Grow into Your Greatness at Grambling State University.” The Center's unique curriculum, Discover. Develop. Do. provides a step-by-step framework through which students’ consistent growth is guided by benchmarks and distinguished by achieving goals that directly correlate to actively building skills, building resumes, and building students
 
-52
 
 that confidently and knowledgably navigate life after graduation. The Center's dedication to nurturing the "total" student is reflected in its slogan, "Grow into Your Greatness at Grambling State University." The Center's unique curriculum, Discover. Develop. Do. provides a step-by-step framework through which students' consistent growth is guided by benchmarks and distinguished by achieving goals that directly correlate to actively building skills, building resumes, and building students who confidently and knowledgably navigate life after graduation. Through this curriculum, students engage in a dynamic process that begins with self-discovery, where they identify their strengths and passions, setting the stage for meaningful and purpose-driven career journeys. The development phase focuses on honing skills through workshops, mentorship, and practical experiences, ensuring that students are prepared for their first job and long-term career success. Finally, the "Do" phase encourages students to apply their newfound knowledge and skills in real-world scenarios, reinforcing their learning through action.
 
@@ -1999,7 +1950,6 @@ Grambling State University's Center for Career and Professional Development is d
 
 1. **12twenty**: This comprehensive platform facilitates efficient job search management and offers robust analytics on employment trends, enhancing your ability to make informed career decisions. Students and
 
-53
 
 Alumni can register using the following link: Grambling.12twenty.com. Faculty/Staff may request accounts by emailing career@gram.edu with the subject line Faculty/Staff 12twenty Access.
 
@@ -2025,7 +1975,6 @@ Students must register their automobiles with the University Police at the begin
 
 United Campus Ministry (UCM). The UCM is a conglomeration of religious organizations that functions ecumenically in advising students on the availability of religious services to meet their needs and preferences. The ministry provides spiritual counseling and guidance on ethical issues to students who request such a service. The ministry makes information about lectures and programs of a religious nature available to students. The ministry is concerned about the moral and spiritual development of students,
 
-54
 
 faculty, and staff who seek assistance with morality and spirituality. Religious services must be scheduled through the student activities office in conformity with established University policy.
 
@@ -2035,7 +1984,6 @@ faculty, and staff who seek assistance with morality and spirituality. Religious
 
 The Center for International Affairs and Programs (CIAP) was established in 2005. CIAP fosters global cooperation and articulation linkages that augment overall campus internationalization. Additionally, CIAP encompasses the Office of International Student & Scholars Services which provides immigration counseling, coordinates the Homeland’s Security (SEVIS Database System) and complies with the code of federal regulations as it pertains to F-1, J-1 and M-1 nonimmigrant visas. It also provides retention services for international students & supports foreign faculty exchanges and cross-cultural advising. CIAP serves as liaison and ombudsman between the University and international students, global partners, federal government, public and private agencies, and the community. Please visit our website at [www.gram.edu/admissions/international.php](http://www.gram.edu/admissions/international.php) to get more information.
 
-55
 
 ## ACADEMIC REGULATIONS
 
@@ -2069,7 +2017,6 @@ It is always the student’s responsibility to be aware of class attendance. At 
 
 **Excused Absences:** Within three (3) days of the student’s return to the University from an absence, the student who desires an excused absence must submit verification or documentation supporting the reason for the
 
-56
 
 absence to the Counseling Center. The Director of the Counseling Center will give the student an approved excused absence form to be shared with the student’s instructors provided the documentation presented can be verified. Acceptable documentation includes those affidavits provided by doctors, lawyers, and other officials when appropriate. At the discretion of the respective instructors, documents may be reviewed for a decision.
 
@@ -2104,7 +2051,6 @@ Quality points earned for each course are determined by multiplying the number o
 
 The grade of “I” (incomplete) means that some relatively small part of the session’s work remains undone because of illness or other unavoidable reason. This mark is given in exceptional cases where the student has been passing a course and gives evidence of ability to pass the course if granted an opportunity to complete an assignment which was not completed by the termination of the course. Incomplete grades for graduate students must be changed within one academic year. The department head, academic dean, and the vice president for academic affairs must approve the Grade Change Form. The grade of “I” becomes
 
-57
 
 "F" on the academic transcript if it is not changed by the deadline.
 
@@ -2128,7 +2074,6 @@ After the published date, students may not drop courses or withdraw from the Uni
 
 A student who drops all courses must also withdraw from the University. The deadline for withdrawing with a grade of "W" is usually four weeks after mid-semester. Students may not drop courses or withdraw from the University after the date published in University's Academic Calendar. However, students with extenuating circumstances may seek an administrative withdrawal (AW) by submitting a letter of appeal and documentation to the University Registrar to substantiate the case of withdrawing after the published date. To drop a course, the student must show direct cause for the extenuating circumstances, show that he/she was passing the course(s) immediately prior to the hardship, and must appeal immediately after the hardship. The Appeals Committee will review the documentation and recommend approval or denial. If approval is granted, the grade of "W" will be assigned to all courses. The grade of "F" will be assigned to the courses of students who do not officially drop or withdraw from the University and the student will
 
-58
 
 forfeit the right to a statement of honorable dismissal. The statute of limitations for an appeal of a change in official academic records is 120 days after the end of the semester/session in which the grade is in question.
 
@@ -2164,7 +2109,6 @@ Students are held individually responsible for information contained in this cat
 
 8. All first-time students born after 1956 will be required to present proof of measles, mumps, rubella,
 
-59
 
 and tetanus-diphtheria immunizations.
 
@@ -2195,7 +2139,6 @@ The following individuals shall be charged the in-state rate, or otherwise consi
 
 *   Anyone using transferred Post-9/11 GI Bill benefits (38 U.S.C. § 3319) who lives in the state in which the institution is located (regardless of his/her formal State of residence) and enrolls in the institution within three years of the transferor's discharge or release from a period of active duty
 
-60
 
 service of 90 days or more.
 
@@ -2221,7 +2164,6 @@ Students who discontinue study at Grambling State University for one or more sem
 
 Transfer credits will be evaluated by the Transfer Analyst in the Office of Admissions for incoming new transfers and added to the permanent record only for persons who are enrolled as degree seeking students. The Records Data Analyst in the Registrar’s Office will enter transfer credits only for continuing and former students. All credits earned at another college/university will be transferred to Grambling State University if the institution is regionally accredited. The grade point average(s) earned at the other accredited post-secondary institutions will be recorded on the transcript with all courses taken and the grades that were earned. However, the grade point average(s) earned at other accredited post-secondary institutions will not be used in determining the institutional grade point average at Grambling State University. All courses will be used to calculate the cumulative grade point average. Courses accepted for credit are not necessarily used toward a degree. Once a student has declared an academic major, the designated academic department advisor and/or dean will review all transfer credits to determine which courses will be accepted towards
 
-61
 
 degree requirements and determine which transfer credits are equivalent to GSU courses. All course substitutions will be submitted on the appropriate form and forwarded to the Office of the Registrar to be articulated on the student’s academic transcript within two (2) working days of evaluation by the academic department. An undergraduate international applicant to the University must have his/her credentials evaluated through World Education Services (WES). The international transfer student will be responsible for all required fees associated with the WES evaluation.
 
@@ -2251,7 +2193,6 @@ Grambling students wishing to take a Louisiana Tech course should complete and s
 
 When a student repeats a course, it is recorded on the transcript each time. All grades are used in calculating the cumulative GPA. An adjusted GPA, which uses only the last grade earned if a class has been repeated, will be used where necessary for graduation. However, the adjusted GPA will not be printed on the
 
-62
 
 transcript. The cumulative GPA is used to determine academic status (probation/suspension) and for the purpose of awarding honors and campus awards (effective the 2000 fall semester). Students should be aware that other four-year colleges and universities may not honor Grambling State University’s repeat policy.
 
@@ -2277,7 +2218,6 @@ There are three categories of academic status for undergraduate students: academ
 
 A student’s academic status is determined at the end of each semester and summer session. Although students will usually receive an official notification of academic status with their grades, such notice is not a prerequisite to students being placed on academic probation or suspension. Students receive official notification of academic status via BannerWeb review of final grades. However, such notice is not a
 
-63
 
 prerequisite to students being placed on academic probation or suspension. The students have the responsibility to know their academic status prior to the beginning of each enrollment period.
 
@@ -2309,7 +2249,6 @@ An undergraduate student suspended from a System University may not enroll in an
 
 While on suspension, only credits earned during the summer sessions will be considered by Grambling State University for credit. Students who plan to take courses during the summer at a community college must consult their academic advisors about the courses that they intend to take.
 
-64
 
 Transfer students who have been suspended from other systems may appeal to enroll at a University of Louisiana institution during the academic suspension period only if they have a 2.0 cumulative average. Appeals may be granted or denied.
 
@@ -2333,7 +2272,6 @@ Materials submitted after the official completion of a course by means of the fi
 
 not limited to: instructor of record grade book, Canvas grades, approved excused absences, administrative withdrawal documents, authentic student medical records, etc. Only the grade of Incomplete (“I”) established at the end of the course, may be changed into a regular grade by the submission of additional material agreed upon previously. Any change of “I” to a grade for undergraduate students must be received in the Registrar’s Office by a designated date after mid-term of the following semester which the student is enrolled. Incompletes must be removed within one year in which the grade was awarded for graduate students. “I” grades are calculated as “F”. The instructor of record cannot change a grade to Withdrawal (“W”).
 
-65
 
 When applicable, an “IP” (In Progress) is awarded to students enrolled in special identified courses such as practicums, internships, and others in which course requirements are normally not completed within one term. The “IP” will remain until course requirements have been completed. At that time a regular grade will be awarded. No credit will be given until the “IP” is converted to regular grade for the entire class. The deadline for grade changes is 60 days after the end of the semester, unless the student has submitted a written appeal (see Procedure for Appealing a Grade).
 
@@ -2365,7 +2303,6 @@ Students classified as seniors who have outstanding records of academic achievem
 
 2. Need thirty or less credit hours to complete baccalaureate degree requirements.
 
-66
 
 A student who meets the criteria and desires to take graduate courses must also obtain the following approvals:
 
@@ -2409,7 +2346,6 @@ Students may earn no more than 12 graduate credit hours while completing baccala
 
     c. Submit a graduation application via BannerWeb upon consultation with their academic advisor.
 
-67
 
 ## CORRESPONDENCE AND EXTENSION COURSES
 
@@ -2451,7 +2387,6 @@ A full-time student who makes a minimum 3.20 cumulative GPA will be placed on th
 
 A full-time student who makes a minimum 3.50 cumulative GPA will be placed on the President’s List.
 
-68
 
 ## Graduation Honors
 
@@ -2489,7 +2424,6 @@ The Board of Regents has designated both REQUIRED and SUGGESTED coursework in ge
 | Social Sciences | 6 |
 | Total: | 39 |
 
-69
 
 ## GENERAL EDUCATION PROGRAM
 
@@ -2527,7 +2461,6 @@ Another major element of the General Education Program is a service learning req
 
 Some courses in the General Education Program have been designated as service learning courses. These are English 101 & 102, First Year Experience 101 & 102, History 101 & 104, Mathematics 147 & 148, and Social Science 101. A student in one of these courses can earn 20 service learning hours. The maximum number of service learning hours that can be earned this way is 80. The other 80 hours are earned by engaging in projects approved by the Director of Service Learning. Students are encouraged to consult with their advisors and the Director of Service Learning early in their matriculation about opportunities for service.
 
-70
 
 **The undergraduate curriculum consists of the following elements:**
 
@@ -2561,7 +2494,6 @@ Any act of cheating or plagiarism in a course by a student will be reported to t
 
 If a student has been reported to the dean for two instances of cheating and/or plagiarism, the student will be charged with persistent academic dishonesty. The student will be given the opportunity to respond to the charge at a hearing. If the student is found guilty, the student will be suspended for one academic year. If a student is charged twice with persistent academic dishonesty and is found guilty on both occasions of academic dishonesty, the student will be indefinitely suspended from the University.
 
-71
 
 ## ACCEPTABLE USE POLICY FOR COMPUTER TECHNOLOGY
 
@@ -2587,7 +2519,6 @@ I. All licensed computer software must be installed by Network Services or by an
 
 J. Violations of the policies will be dealt with in the same manner as violations of other University policies and may result in disciplinary review. In such a review, the full range of disciplinary sanctions is available including the loss of computer use privileges, dismissal from the University, and legal action.
 
-72
 
 ## ACADEMIC SUPPORT PROGRAMS
 
@@ -2619,7 +2550,6 @@ Additionally, the Office of Distance Learning provides faculty with effective an
 **Telephone**: (318) 274-6321, (318) 274-6411 or (318) 274-2871
 **Email**: [dlhelpdesk@gram.edu](mailto:dlhelpdesk@gram.edu)
 
-73
 
 # EARL LESTER COLE HONORS COLLEGE
 
@@ -2672,7 +2602,6 @@ Additional honors courses offered in General Education are taken as required by 
 | HONS 450 Independent Study | 3 |
 | HONS 460 Honors Lecture Series | 2 |
 
-74
 
 **Note:** *Students who maintain a 3.5 overall grade point average and successfully pass at least 3 honors college seminars, excluding HONS 110 are presented medallions at the Medallion Luncheon prior to graduation. The type of recognition (Bronze, Silver, or Gold Medallion) is dependent on the student’s academic record, and participation in other activities sponsored by the Honors College.*
 
@@ -2700,7 +2629,6 @@ Army scholarships for two, three, or four-years are awarded to outstanding stude
 
 Note: Prospective graduate students may attend the Basic Leadership Training Course during the summer prior to starting graduate studies and qualify for admittance into the Advance course. Upon completion of the Basic Leadership Training Course students will receive 6 credit hours; this is non-obligatory. Students who commit to a contract are eligible to receive a $5,000 incentive bonus and a Graduate School 2-year scholarship upon acceptance into the Advance Course. Upon earning the graduate degree, the student is commissioned as a Second Lieutenant in the U.S. Army (Active Duty, Army Reserves, or Army National Guard).
 
-75
 
 ## Military Science Curriculum Plan
 
@@ -2747,7 +2675,6 @@ Air Force ROTC is offered at Louisiana Tech University through the ICP Program. 
 
 Air Force ROTC is open to all students in any major pursuing a bachelor’s degree. The mission of AFROTC is to train students to become future leaders in the U.S. Air Force and America. AFROTC provides
 
-76
 
 instruction and experience to all cadets in a challenging environment so they can graduate with the knowledge, character and motivation essential to becoming leaders in the world’s greatest Air Force. Individuals who successfully complete the 3-4-year program will be commissioned as Second Lieutenants in the U.S. Air Force or U.S. Space Force.
 
@@ -2790,7 +2717,6 @@ All uniforms and textbooks required for AFROTC courses are furnished by the U.S.
 | 3-weeks Maxwell AFB, AL |  |
 | \*Field Training positions are competitive and are awarded based on merit. |  |
 
-77
 
 | Junior Year |  |
 | --- | --- |
@@ -2825,7 +2751,6 @@ The Early Alert Program provides faculty with a tool early (four weeks into the 
 
 The Office of Retention offers academic support services to all students, with a particular focus on first-year full-time students who require additional support during their transition from high school to college.
 
-78
 
 *   **Peer Tutoring Services:** Peer tutorial support is offered in most traditional first-year courses, such as Math 131: College Algebra, Math 132: Trigonometry, Pre-Calculus I and II, Biology 103/105 and 104/106, Chemistry 101, and English 101 and 102.
 
@@ -2865,7 +2790,6 @@ To be considered for the program, rising seniors must meet the following academi
 
 *   An ACT composite score of 20 or greater, <u>OR</u> a combined SAT Verbal and Math score of 940 (with a minimum of 460 in SAT Math).
 
-79
 
 ### *Program Details*
 
@@ -2911,7 +2835,6 @@ University College coordinates initiatives that support student retention and pr
 
 From orientation to graduation, University College is committed to student success. We provide the tools, guidance, and encouragement every student needs to thrive—academically, personally, and professionally. Through strategic instruction and collaborative partnerships with faculty, staff, and Enrollment Management, we help students persist, progress, and prepare for life beyond Grambling.
 
-80
 
 ## OFFICE OF GRADUATE STUDIES
 **Dr. Carolyn Marshall–Jackson, Interim Executive Director**
@@ -2944,7 +2867,6 @@ Graduate instruction and specific programs are supervised and administered by ap
 
 * Formulating all policies and regulations affecting graduate curricula and requirements leading to graduate credit, certification, and degrees;
 
-81
 
 * Approving graduate curricula and course
 
@@ -2988,7 +2910,6 @@ Individuals seeking admission to Graduate Studies must submit a graduate admissi
 The application for Graduate Studies is web-based and can be accessed at:
 [http://www.gram.edu/admissions/graduate/](http://www.gram.edu/admissions/graduate/).
 
-82
 
 Any questions or concerns may be submitted electronically to [gradstudies@gram.edu](mailto:gradstudies@gram.edu) or Mrs. Antoinette Kelly-Clark at [kellya@gram.edu](mailto:kellya@gram.edu).
 
@@ -3028,7 +2949,6 @@ An applicant not meeting these criteria may apply to the undergraduate admission
 
 A graduate student who submits an incomplete application packet may be admitted to Graduate Studies on a provisional basis. However, a student who is admitted provisionally and does not complete all requirements for full admission **within one semester or summer session will not be allowed to enroll in subsequent semesters** until all required documents for full admission are submitted.
 
-83
 
 ## Ten Percent Exception
 
@@ -3066,7 +2986,6 @@ A graduate student may transfer up to one-third of the hours needed to complete 
 
 Credits earned on a non-graduate or post-baccalaureate basis at another institution **will not** be accepted toward graduate degree requirements.
 
-84
 
 ## International Admission
 
@@ -3104,7 +3023,6 @@ Any admitted student who has not enrolled for one regular semester, excluding su
 
 * Official transcript(s) from college(s) attended while absent from Grambling State University.
 
-85
 
 ## STUDENT ADVISEMENT AND PROGRAM PLANNING
 
@@ -3132,7 +3050,6 @@ Admission to candidacy indicates that the student has successfully completed an 
 
 *Doctoral Degree:* Advancement to candidacy for the doctoral degree is granted by the Office of Graduate Studies on the recommendation of the department after the student has: (1) achieved regular admission status; (2) submitted an approved plan of study to the Office of Graduate Studies; (3) passed the required candidacy or qualifying examination; (4) completed all required pre-candidacy courses; (5) earned at least
 
-86
 
 a 3.0 GPA in all graduate work taken; (6) demonstrated English proficiency by earning at least a “B” grade in a course designated for that purpose; (7) met the residency requirement; and, (8) the program has submitted the completed “Admission to Candidacy” form to the Office of Graduate Studies. **A doctoral student must be advanced to candidacy at least nine months prior to the granting of the degree to assure sufficient time for work on the dissertation.**
 
@@ -3164,7 +3081,6 @@ The style and form of the dissertation must be in conformity with the instructio
 
 A student must file an application for graduation in the Office of Graduate Studies during the first month of the fall or spring semester in which he or she expects to complete all requirements. A candidate for any degree or certificate must also complete an electronic application for graduation with the Office of the Registrar via BannerWeb.
 
-87
 
 An applicant for a degree/certificate does not have to be enrolled during the semester in which he or she intends to graduate. The student must satisfy all degree/certificate requirements under the current curriculum when applying for graduation. If a student fails to receive his or her degree/certificate at the time indicated, a new application must be filed.
 
@@ -3198,7 +3114,6 @@ The Plan Study (POS) should consist of graduate coursework not older than six (6
 
 A graduate student must maintain a minimum GPA of 3.0 to be eligible to apply for graduation. All credits earned while pursuing the graduate degree or certificate, in all courses taken, will be used to determine a student’s overall GPA. The unit of credit is the semester hour based on a four-point grading system. Grades are assigned as follows:
 
-88
 
 | Letter Grade | Description | Quality Points Per Credit Hour |
 | --- | --- | --- |
@@ -3231,7 +3146,6 @@ When applicable, an “IP” (In Progress) is awarded to students enrolled in ap
 
 The grade “Z” is for certain approved courses. When all work is completed, a Grade Change Form must be processed.
 
-89
 
 The grade of “FN” indicates that the student did not attend class and did not complete an academic assignment. Both requirements must be met to award the FN grade. *This grade will be used by the university to assist with the establishment of a withdrawal date for the return of unearned student financial aid.*
 
@@ -3261,7 +3175,6 @@ A student who believes that an appropriate grade has not been assigned may appea
 
 1. The student should **first attempt** to resolve the problem **within 30 days** (after the end of the term in which the course was offered) with the instructor who assigned the grade. If the instructor determines that an error has been made in submitting the grade, a Grade Change Form must be initiated by the instructor immediately. Documentation to justify the change must be provided for the approving officials. After the department head and dean sign the form, it is routed to the provost and vice president for academic affairs. Once the form is approved by the provost/vice president the form is submitted to the Registrar’s Office electronically to make the change official.
 
-90
 
 2. If the student is not satisfied with the instructor’s decision, he or she should file a written appeal within 120 calendar days after the end of the semester/session to the head of the department in which the course was offered.
 
@@ -3291,7 +3204,6 @@ A student may drop or add a course without penalty within the limit specified in
 
 Nine (9) credit hours are considered to be a full load for graduate students during the regular fall and spring semesters. During the summer session, six (6) hours are considered to be a full load. Some degree programs may require a larger credit load each semester. Check with your department head or associate dean for advisement.
 
-91
 
 ## FINANCIAL AID
 
@@ -3329,7 +3241,6 @@ For more information concerning student financial assistance and scholarships, p
 
 The Office of Graduate Studies has a limited number of graduate assistantships available for students. A student who has been admitted to Graduate Studies with regular admission status may be considered for and granted an assistantship by the Office of Graduate Studies. The graduate student must be enrolled full- time (9 credit hours each semester; 6 credit hours in the summer) and maintain a GPA of 3.0 in order to be
 
-92
 
 considered for assistantship support during subsequent semesters. A student who fails to maintain a full-time course load in any given semester or term will lose her/his assistantship and may be disqualified from receiving assistantships in subsequent semesters. A graduate student who holds other campus employment that is funded by institutional dollars is not eligible for a graduate assistantship funded by institutional dollars.
 
@@ -3357,7 +3268,6 @@ The Graduate Administrative Assistant is usually assigned to work in the various
 
 *Selection Process*: A graduate student who is placed as a graduate administrative assistant may be recommended by the department and/or program in which he/she will have administrative responsibilities
 
-93
 
 or may be placed in the department or program by the Office of Graduate Studies in response to a request from a particular department or program.
 
@@ -3389,7 +3299,6 @@ For information concerning tuition, fees, and other expenses, please contact the
 
 The Academic Common Market is an interstate agreement among fifteen Southern states for sharing uncommon college and university programs. Residents of these states who are accepted for admission into selected out-of-state programs may enroll on an in-state tuition basis. To qualify, an applicant must: (1) be accepted into a program to which his or her state has made arrangements to send its students; and, (2) submit proof to the “university of legal residence” in the home state. For information contact the Southern Regional Education Board, 592 Tenth Street N.W., Atlanta, GA 30318-5790 or [www.cep.unt.edu/ACM.html](http://www.cep.unt.edu/ACM.html).
 
-94
 
 ### Web-based Courses
 
@@ -3429,7 +3338,6 @@ The purpose of the Grambling State University Graduate Student Association (GSUG
 
 All students enrolled at Grambling State University, who paid health insurance fees at the time of registration, are covered by a limited student insurance plan. Faculty/staff with tuition exemptions are
 
-95
 
 excluded from this plan. If the student’s health insurance denies the claim, all payments are the responsibility of the student. Insurance brochures are available at the health center. All full-time graduate students are automatically enrolled in a limited student insurance plan when fees are paid. Students must have a referral and claim form for all off-campus appointments during health center hours.
 
@@ -3459,7 +3367,6 @@ All first-time students born after 1956 will be required to present proof of mea
 
 A graduate student is expected to assume full responsibility for knowledge of the rules and regulations affecting her/his graduate program. Students must become familiar with the university general catalog and college/school or program handbook.
 
-96
 
 ## COLLEGE OF ARTS AND SCIENCES
 
@@ -3495,7 +3402,6 @@ The College of Arts and Sciences (COAS) is composed of eleven (11) academic depa
 | Administrative Affairs |  |  |
 | Visual and Performing Arts Theatre B.A. | 50.9999 | 4201 |
 
-97
 
 ## Biological Sciences Department
 
@@ -3555,7 +3461,6 @@ Students who minor in biology are required to take a total of 18 credit hours. C
 | General Education Testing 300* | 0 |
 | Total Hours | 31 |
 
-98
 
 ## Junior Year
 
@@ -3672,7 +3577,6 @@ Students who minor in biology are required to take a total of 18 credit hours. C
 | Mathematics 147 & 148 | 6 |
 | Total Hours | 30 |
 
-99
 
 ## Sophomore Year
 
@@ -3781,7 +3685,6 @@ Students who minor in biology are required to take a total of 18 credit hours. C
 | CHEM 1515 Biochemistry | 6 |
 | CPAP 1505 Intro to Philosophy, Science & Art of Chiropractic | 2 |
 
-100
 
 | CHPM 1501 Personal Development 1 (first 5 weeks only) | 1 |
 | --- | --- |
@@ -3851,7 +3754,6 @@ Upon completion of the Data Analytics Undergraduate Certificate program students
 
 * Communicate effectively with a range of audiences
 
-101
 
 through story telling using data visualization, project reports and presentations.
 
@@ -3922,7 +3824,6 @@ A minor in chemistry can be earned after completion of 20 or more credit hours o
 | Chemistry 236 | 2 |
 | Mathematics 201 | 3 |
 
-102
 
 | Physics 154, 154L | 4 |  |
 | --- | --- | --- |
@@ -4042,7 +3943,6 @@ A minor in chemistry can be earned after completion of 20 or more credit hours o
 | Art 210 | 3 |
 | English 200 | 3 |
 
-103
 
 | History 103 | 3 |
 | --- | --- |
@@ -4113,7 +4013,6 @@ The program objectives (ABET Program Objectives) for the Bachelor of Science (B.
 
 4) Make well-rounded decisions when faced with social, ethical, and legal issues inherent to the computing field;
 
-104
 
 5) Develop innovative ideas for solving emerging real-world problems in any computer-based field using hardware and software.
 
@@ -4216,7 +4115,6 @@ SO6. Apply computer science theory and software development fundamentals to prod
 | Computer Science 372 | 3 |
 | Computer Science 472 | 3 |
 
-105
 
 ### Internship Course
 
@@ -4302,7 +4200,6 @@ SO6. Apply security principles and practices to maintain operations in the prese
 | Economics 201 | 3 |
 | Mathematics 274 | 3 |
 
-106
 
 | Physics 154, 154L | 4 |
 | --- | --- |
@@ -4379,7 +4276,6 @@ This set of fully online, 3-semester-hour courses is offered at the 100 and 200 
 
 Graduates of the cloud computing program will be highly sought after by a range of private sector industries in the state of Louisiana, local government agencies, industries, federal government, and defense organizations. The program supports the institutional mission in enabling protection of the quality of life for citizens of the state and the country and promoting responsible citizenship in a changing world. The cloud computing curriculum was developed to provide a purposeful and creative program that emphasizes both the theory of computing, cloud computing, and its practice. Faculty use current technologies to stimulate learning and promote an enjoyable and worthwhile background experience for lifetime use in the profession.
 
-107
 
 The B.S. in Cloud Computing offers a high-quality educational program for cloud computing professionals. The core course requirements provide the students with the knowledge and skills needed to successfully evaluate cloud database design, understanding of cloud networks, network virtualization, and understanding and working projects related to AWS, google cloud, Microsoft Azure Solutions, and IBM cloud.
 
@@ -4457,7 +4353,6 @@ SO7. To Apply Map-Reduce concept to applications and build Private Cloud and bro
 | Theater 212 | 3 |
 | Economics 201 | 3 |
 
-108
 
 | Art 105 | 3 |
 | --- | --- |
@@ -4518,7 +4413,6 @@ The department offers concentrations in electronics engineering technology, draf
 
 Engineering technology students may participate in Cooperative Education Program which involves alternate periods of work and University study. Students participating in the program receive credit for the off-campus work experiences by registering at the University and receive pay for their work from the industrial firms. Participation in the Cooperative Education Program is on a voluntary basis. The program is available to all engineering technology students who have completed two years of academic study with a cumulative grade point average of 3.0 or higher.
 
-109
 
 **Construction Engineering Technology (CET)** Students receive instruction in science, mathematics, architectural and structural design, estimating, surveying, construction materials and techniques, with emphasis on practical application and management. The curriculum is designed to prepare graduates for management positions such as project/construction managers, estimators, etc., or to act as general contractors in their own firms. Only grades of "C" or higher are acceptable in major and supporting courses at the 100 and 200 levels. Students are allowed one grade of "D" at the departmental major 300 or 400 course levels for Engineering Technology majors.
 
@@ -4609,7 +4503,6 @@ Engineering technology students may participate in Cooperative Education Program
 | Chemistry 111 | 3 |
 | Total Hours | 31 |
 
-110
 
 ## Sophomore Year
 
@@ -4708,7 +4601,6 @@ The concentration in **Electronics Engineering Technology (EET)** curriculum is 
 | English 305 | 3 |
 | Total Hours | 31 |
 
-111
 
 ## Senior Year
 
@@ -4799,7 +4691,6 @@ The concentration in **Computer Engineering Technology (CPET)** curriculum is de
 
 \*\*\*CPET, EET, CS, or CIS Directed Electives must be chosen from an approved list.
 
-112
 
 ## English & Foreign Languages Department
 
@@ -4844,7 +4735,6 @@ To earn the Bachelor of Arts (B.A.) degree in English with a concentration in Ge
 | Biology 104 | 4 |
 | First Year Experience 101 & 102 | 2 |
 
-113
 
 | History 101 | 3 |
 | --- | --- |
@@ -4958,7 +4848,6 @@ To earn the Bachelor of Arts (B.A.) degree in English with a concentration in Af
 
 \*\*\*Electives must be approved by advisor and department head.
 
-114
 
 ## Family and Consumer Sciences Department
 
@@ -5024,7 +4913,6 @@ The Bachelor of Science Degree in Child Development and Early Literacy (Prenatal
 | Biology 103 | 3 |
 | Total Hours | 32 |
 
-115
 
 ## Sophomore Year
 
@@ -5138,7 +5026,6 @@ The Bachelor of Science Degree in Child Development and Early Literacy (Prenatal
 
 \*Note: The Teacher Certification Concentration meets requirements and total credit hours as approved by the Louisiana Department of Education.
 
-116
 
 ## History Department
 
@@ -5234,7 +5121,6 @@ A minor in Africana Studies requires the completion of eighteen credit hours: tw
 | History 309 or History 351 or History 430 | 3 |
 | TOTAL | 122 |
 
-117
 
 ## Law and Society Concentration
 
@@ -5339,7 +5225,6 @@ Bachelor of General Studies (BGS) degree program offers concentrations in Humani
 | Total Hours | 79 |
 | TOTAL | 120 |
 
-118
 
 \*Advisor must approve.
 
@@ -5424,7 +5309,6 @@ The requirements for graduation from the M.A. in Social Sciences program are as 
 | History 546 | 3 |
 | History 547 | 3 |
 
-119
 
 | History 548 | 3 |
 | --- | --- |
@@ -5529,7 +5413,6 @@ The requirements for graduation from the M.A. in Social Sciences program are as 
 | Total Hours | 18 |
 | TOTAL | 150 |
 
-120
 
 ## Mathematics and Physics Department
 
@@ -5573,7 +5456,6 @@ In addition to offering a core in mathematics and physics, the department also o
 
 * The *actuarial science* concentration affords the student the opportunity to become actuaries by incorporating additional courses in statistics, mathematics of finance, economics, and finance along with elective courses in accounting, business, mathematics, and computer science. The actuaries are in higher demand from financial institutions such as Insurance companies, banks, Hedge funds, and other financial institutions. In general, this program prepares students for rewarding careers anywhere where risk is inherent.
 
-121
 
 The BS degree in mathematics and physics is awarded to students who successfully complete the outlined program of study, the requirements of the general education program, and meet all other University requirements.
 
@@ -5690,7 +5572,6 @@ In addition, 300 or higher-level computer science courses can be taken as electi
 | --- | --- |
 | Major Elective* | 3 |
 
-122
 
 | Physics 403 | 3 |
 | --- | --- |
@@ -5798,7 +5679,6 @@ In addition, 300 or higher-level engineering technology, and computer science co
 | General Education Testing 300 | 0 |
 | Total Hours | 30 |
 
-123
 
 ## Junior Year
 
@@ -5860,7 +5740,6 @@ Additional Requirements for Music Majors: Each student must declare a primary ap
 
 A piano skills diagnostic test will be administered upon admission, and the student will be advised as to
 
-124
 
 the best manner of meeting the required piano proficiency (MUS 105, MUS 106 and MUS 205). There will also be a Basic Music diagnostic test given, students who pass this test will be allowed into Harmony I. Students who are not successful in passing this test will be advised to take MUS 101.
 
@@ -5953,7 +5832,6 @@ It is mandatory that students confer with departmental advisors prior to registe
 | Music 211 & 212 | 2 |
 | Sociology 101 | 3 |
 
-125
 
 | Music 319 | 3 |
 | --- | --- |
@@ -6075,7 +5953,6 @@ It is mandatory that students confer with departmental advisors prior to registe
 | Education 455 | 9 |
 | Education 453 | 3 |
 
-126
 
 | Music VAR-Band, Choir, or Orchestra | 1 |
 | --- | --- |
@@ -6196,7 +6073,6 @@ It is mandatory that students confer with departmental advisors prior to registe
 | Applied Music at or above 200 level | 1 |
 | Major Ensemble Participation (see above) | 1 |
 
-127
 
 ## Public Administration Department
 
@@ -6306,7 +6182,6 @@ This innovative 100% online major offers two distinct concentrations: Government
 | Humanities 201 | 3 |
 | Chemistry 101 | 3 |
 
-128
 
 | Political Science 201 | 3 |
 | --- | --- |
@@ -6383,7 +6258,6 @@ Requirements for graduation from the MPA Program include the following criteria:
 
 * Completion of 45 semester hours of course work with a minimum GPA of 3.00, which must include 30 hours of core MPA courses.
 
-129
 
 * Passing grade on a written comprehensive examination. Eligibility requirements to take the comprehensive examination are set forth in the *Policies and Procedures for the Administration and Evaluation of the "Comprehensive Examination"* which is available from the Department of Public Administration. A Master's Thesis Option may be used in place of the Comprehensive Examination.
 
@@ -6471,7 +6345,6 @@ A minimum of 45 credit hours is required for the MPA degree including at least 1
 
 <sup>†</sup> Required for students whose undergraduate degree is not in Political Science or Public Administration. May also be required for students with an overall GPA below 3.0.
 
-130
 
 ## Visual and Performing Arts Department
 
@@ -6511,7 +6384,6 @@ The Department of Visual and Performing Arts offers the following minor concentr
 
 * The **Dance Minor** requires a minimum of 24 credit hours in core courses. All participants in this concentration are required to perform with the Orchesis Dance Company – the University's premier professional touring company.
 
-131
 
 * The **Theatre Minor** requires a minimum of 18 credit-hours – four in core courses and two from a list of theatre electives.
 
@@ -6631,7 +6503,6 @@ The Department of Visual and Performing Arts offers the following minor concentr
 | Art 217 or Theatre 314 | 3 |
 | Mass Communication 250 | 3 |
 
-132
 
 | Art 309 or Art 310 | 3 |
 | --- | --- |
@@ -6691,7 +6562,6 @@ The Department of Visual and Performing Arts offers the following minor concentr
 | Art 300+ level elective | 3 |
 | Total | 24 |
 
-133
 
 ## THOMAS & JOYCE MOOREHEAD COLLEGE OF BUSINESS & ENTREPRENEURSHIP
 
@@ -6712,7 +6582,6 @@ The degree programs offered in the college are listed below.
 | Management & Marketing | Management | B.S. | 52.0201 | 1208 |
 | Marketing | B.S. | 52.1401 | 1101 |  |
 
-134
 
 ## Accounting & Information Systems Department
 
@@ -6825,7 +6694,6 @@ Students may receive a minor in accounting or computer information systems by co
 | General Business 202 | 3 |
 | Economics 202 | 3 |
 
-135
 
 | General Education Testing 300 | 0 |
 | --- | --- |
@@ -6906,7 +6774,6 @@ The undergraduate program in Management prepares students adequately for entry l
 
 The Management program requires 34 semester hours of specialty courses, plus 45 hours of College requirements, and 41 hours of General Education
 
-136
 
 requirements to be completed. Overall, a student requires 120 credit hours to graduate. A student may double-major in Management and Marketing or obtain a minor in Management upon completing 21 credit hours of approved management courses.
 
@@ -7018,7 +6885,6 @@ The Bachelor of Science Degree with a major in Marketing is awarded to those stu
 | General Business 303 | 3 |
 | Finance 301 | 3 |
 
-137
 
 | General Business 251 & 353 | 6 |
 | --- | --- |
@@ -7041,7 +6907,6 @@ The Bachelor of Science Degree with a major in Marketing is awarded to those stu
 
 \*Electives must be approved by advisor and/or department head.
 
-138
 
 ## COLLEGE OF EDUCATION
 
@@ -7078,7 +6943,6 @@ The degree programs offered by the college are listed below.
 | Leisure Studies |  |  |
 | Sport Administration M.S. | 31.0504 | 6006 |
 
-139
 
 ## Curriculum and Instruction Department
 
@@ -7122,7 +6986,6 @@ Some of these experiences may occur outside of school hours, such as a parent-te
 
 Per Bulletin 996, Section 328, G: “Holders of the resident teacher certificate may serve as a substitute teacher in their residency school system for up to ten days each semester. Such service shall not impede a teacher candidate's residency performance or ability to successfully complete the preparation program.”
 
-140
 
 ## Residency Requirements
 
@@ -7166,7 +7029,6 @@ In order to complete all programs of study within a four-year period in the Depa
 
 The Department offers the following undergraduate teacher education programs: Elementary Education, Grades 1-5; Elementary Education and Special Education Mild/Moderate, Grades 1-5; and Secondary Education and Teaching with concentrations in Biology, Chemistry, Mathematics,
 
-141
 
 and Physics. In addition, the Department also offers two Master of Arts in Teaching (MAT) degrees: 1) Elementary Education and Special Education Mild/Moderate, Grades 1-5, and 2) Secondary Education and Special Education Mild/Moderate, Grades 6-12 with concentrations in the following areas: English, Math, Biology, Physics and Chemistry; and Master of Education Curriculum and Instruction in the following areas Reading Specialist; Mild Moderate; Early Intervention and Autism.
 
@@ -7257,7 +7119,6 @@ The Bachelor of Science degree with a major in Secondary Education and Teaching 
 | Social Science 101 | 3 |
 | Total Hours | 35 |
 
-142
 
 ### Sophomore Year
 
@@ -7374,7 +7235,6 @@ The Bachelor of Science degree with a major in Secondary Education and Teaching 
 | --- | --- |
 | Education 162 | 3 |
 
-143
 
 | Physics 120 | 3 |
 | --- | --- |
@@ -7491,7 +7351,6 @@ The Bachelor of Science degree with a major in Secondary Education and Teaching 
 | Total Hours | 27 |
 | TOTAL | 123 |
 
-144
 
 Candidates enrolling Fall 2024 and after will take *Education 306 in place of Education 322 during their Senior year.*
 
@@ -7576,7 +7435,6 @@ Practitioner teacher interns who enter the program will attend seminars and cove
 
 Practitioner teacher interns will take courses that focus on the special needs of the mild/moderate exceptional children, and vocational and transition services for students with disabilities to become certified in general special education mild/moderate and one of the following: Biology Education, General Science, English Education, Mathematics Education, or Physics Education.
 
-145
 
 ## Admission Requirements
 
@@ -7640,9 +7498,7 @@ After reviewing written materials, eligible applicants will be invited to a grou
 | Education Practitioner Teacher 541 | 3 |
 | Total Hours | 9 |
 
-146
 
-147
 
 ### Spring Semester Only/First Year
 ### Block II Program Specialization Courses
@@ -7740,7 +7596,6 @@ The Department of Curriculum and Instruction offers the Master of Education degr
 
 The M.Ed. in Curriculum and Instruction (Reading Concentration) is designed to enable certified teachers to meet the requirements to be "highly qualified" as defined by the No Child Left Behind (NCLB) federal legislation and specifically obtain a Master's Degree in a content area. Specifically, the objectives of the Reading Concentration program are designed to focus on pedagogical and professional knowledge that the candidate should know and be able to use as an effective Reading Specialist/Literacy Coach. Additionally, emphasis is also placed on the appropriate knowledge, skills and the professional dispositions needed for M.Ed. candidates to become
 
-147
 
 effective Reading Specialist/ Literacy Coaches as they meet diverse learner needs. The program objectives, curricula, instruction, and field and clinical experiences are guided by the Common Core State Standards, IRA/ILA most recent Standards for Reading Professionals, National Reading Research Panel, Reading First, NCATE/CAEP Standards, the Louisiana Blue Ribbon Commission, and the Louisiana Board of Elementary and Secondary Education (BESE). The institution totally supports our program’s seeking of National Recognition from IRA/CAEP.
 
@@ -7778,7 +7633,6 @@ If a licensure test or tests is/are required to complete the endorsement, candid
 | Total | 33-40 |
 
 \*Grade of “B” or higher.
-148
 
 ## AREA OF CONCENTRATION
 
@@ -7806,7 +7660,6 @@ Additionally, those candidates in the M.Ed. program in Early Intervention, or Mi
 
 All candidates must register for and pass ED 599, the Comprehensive Examination, before the degree will be awarded. All candidates must take and pass the Comprehensive Exam which consists of essay questions from the candidate’s area of concentration. Passage is determined by successfully completing 80% questions. Depending upon the area, candidates are to take and pass the appropriate Praxis II Special
 
-149
 
 Education test(s) to complete the degree.
 
@@ -7891,7 +7744,6 @@ The Master of Science (M.S.) program in developmental education prepares individ
 
 The vision of the Master of Science in Developmental Education program is to be the premier provider of
 
-150
 
 developmental education teachers, specialists, and practitioners in the nation.
 
@@ -7968,7 +7820,6 @@ Requirements for admission to the master’s program in Developmental Education 
 | Educational Leadership 511 | 1 |
 | Educational Leadership 512 | 2 |
 
-151
 
 ## Learning Center Management
 
@@ -8043,7 +7894,6 @@ The purpose of the program is to prepare faculty and administrators who have mas
 
 The vision of the Post Master’s Certificate in Developmental Education is to become the premier provider of graduate-level coursework in the field of developmental education to practicing developmental educators and learning assistance professionals who do not wish to seek a terminal degree in the field.
 
-152
 
 ### Mission
 
@@ -8106,7 +7956,6 @@ Requirements for admission to the Post Master’s Certificate program in Develop
 
 To complete the program, a student must take 21 semester credit hours consisting of 18 hours of core courses and 3 hours of elective courses.
 
-153
 
 ## Doctor of Education in Developmental Education
 
@@ -8162,7 +8011,6 @@ Requirements for conditional admission to the program include the following crit
 
 The status of a student admitted conditionally is reevaluated after 12 hours of work has been completed. If the GPA is 3.0 or higher, without a grade of C or lower and all other requirements of admission are met, the conditional status is removed
 
-154
 
 and the student is granted regular standing. If the GPA is less than 3.0, the student is dismissed from the program.
 
@@ -8259,7 +8107,6 @@ Additionally, students must complete one of the following choices to meet the re
 
 * Successfully complete required coursework. (Students should register for the Qualifying Exam before completion of no more than 27 hours of coursework. Students who have completed 27
 
-155
 
 hours and have not taken or passed the Qualifying Examination will not be allowed to take additional courses until after successful completion of the examination).
 
@@ -8329,7 +8176,6 @@ To complete the program, a student must take a minimum 60 required semester cred
 
 * Submit final dissertation to ProQuest electronic document/publication service for faculty review.
 
-156
 
 ## Kinesiology, Sport & Leisure Studies Department
 
@@ -8393,7 +8239,6 @@ Students majoring in KNES or LS Programs may also earn a minor in health educati
 | General Education Testing 300 | 0 |  |
 | Total Hours | 30 |  |
 
-157
 
 ## Junior Year
 
@@ -8513,7 +8358,6 @@ Students majoring in KNES or LS Programs may also earn a minor in health educati
 | Sociology 101 or 201 | 3 |
 | Total Hours | 32 |
 
-158
 
 ### Sophomore Year
 
@@ -8627,7 +8471,6 @@ program requires 120 hours of coursework to graduate, with a minimum cumulative 
 | Recreation 380 | 3 |
 | Recreation 408 | 3 |
 
-159
 
 | Recreation 300 | 3 |
 | --- | --- |
@@ -8722,7 +8565,6 @@ Admission to the SPA degree program includes the following criteria:
 
 * A baccalaureate degree from an accredited college or university in the United States, or proof of an equivalent education from a foreign university.
 
-160
 
 * A 3.00 or higher cumulative grade point average for unconditional admission and 2.50 for conditional admission.
 
@@ -8767,7 +8609,6 @@ Admission to the SPA degree program includes the following criteria:
 
 \*Grade of “B” or higher must be earned.
 
-161
 
 ## COLLEGE OF PROFESSIONAL STUDIES
 
@@ -8798,7 +8639,6 @@ The degree programs offered in the college are listed below.
 | School of Social Work Advanced Supervision P.B.C. | 44.0799 | 5002 |
 | Social Work M.S.W. | 44.0701 | 6051 |
 
-162
 
 ## Criminal Justice Department
 
@@ -8870,7 +8710,6 @@ Only grades of "C" or higher are acceptable as transfer credits to be applied to
 | --- | --- |
 | Sociology 201 | 3 |
 
-163
 
 | Economic 201 | 3 |  |
 | --- | --- | --- |
@@ -8968,7 +8807,6 @@ The Master of Science in Criminal Justice degree program is designed for student
 
 The program strives to promote excellence and social responsibility for students and faculty in a creative, enlightened, and culturally sensitive academic environment. The program aims to produce graduates who are prepared to uphold and foster the principles and ideals outlined in the Constitution of the United States of America. The program offers a non-thesis option of 42 semester hours of course work and must pass a comprehensive examination. The program also offers a thesis option which consist of 36 semester hours of course work. Thesis students are also required to perform satisfactorily during an oral defense of the thesis.
 
-164
 
 ## Requirements for Admission to the MS Program
 
@@ -9047,7 +8885,6 @@ The Doctor of Philosophy in Criminology and Justice Administration program focus
 
 The overall intent of the Ph.D. program in Criminology and Justice Administration is to provide an interdisciplinary academic experience that will prepare professionally qualified leaders to serve effectively and efficiently in bringing about equity, reform, and justice to society while assisting in
 
-165
 
 holding individuals accountable at all levels of the criminal justice system and related areas.
 
@@ -9087,7 +8924,6 @@ Students must also submit the following to Graduate Studies:
 
 Students who are otherwise exceptionally well qualified but who do not meet the G.R.E. or GPA requirements as specified above will be admitted on “conditional” status; however, under no circumstances can the cumulative graduate grade point average be less than 3.2. The “conditional” admission status may be changed to “regular” admission after the student has (1) completed 18 credit hours of graduate work in Criminology and Justice Administration beyond the master’s degree with no grade less than “B” and (2) has maintained a 3.5 cumulative grade point average or higher.
 
-166
 
 Students who do not have a masters in criminal justice must complete the following masters level courses prior to obtaining full admission to the program; these courses may be completed during Summers I and II prior to the fall semester:
 
@@ -9127,7 +8963,6 @@ In addition to the research requirements associated with each course, all doctor
 
 Students are encouraged to pursue the identification of a dissertation topic and review of the literature
 
-167
 
 prior to the comprehensive examination. The dissertation prospectus must be approved by the doctoral student’s committee (as evidenced by receiving a grade of “A” or “B” in “Dissertation Proposal”) and the University’s Institutional Review Board, if applicable, prior to gathering data. The dissertation prospectus may be approved only after the comprehensive examination has been successfully completed.
 
@@ -9163,7 +8998,6 @@ The student may change the composition of his/her committee at any time. All cha
 
 The Ph.D. in Criminology and Justice Administration will be awarded by Grambling State University to those students who have successfully met all requirements of the program and have been
 
-168
 
 recommended for graduation by the Criminology and Justice Administration faculty.
 
@@ -9255,7 +9089,6 @@ Criminology and Justice Administration 653
 Criminology and Justice Administration 660
 Criminology and Justice Administration 710
 
-169
 
 Criminology and Justice Administration 711
 Criminology and Justice Administration 715
@@ -9339,7 +9172,6 @@ Students must complete at least 9 semester hours from the core (MC 100, 225, and
 | Total Hours | 28 |
 | TOTAL | 120 |
 
-170
 
 ### *Science Elective Options
 
@@ -9392,7 +9224,6 @@ Student must complete 9 credit hours in free electives within or outside of Mass
 
 The objectives of the broadcasting sequence include teaching students the philosophy and how to use audio and video techniques to record/shoot, edit, direct and produce programs that inform the public via radio, TV and the Web. Students will also learn writing skills to use digital media to tell their stories. They may focus on production (behind the scenes) work or on-camera work, like news reporting. We have a course specifically designed to prepare students for that purpose, MC 370. This sequence has a 21-hour core and 18 concentration hours, plus a
 
-171
 
 potential 9 hours of additional electives within mass communication.
 
@@ -9460,9 +9291,7 @@ Students who choose the sport journalism concentration can become professional s
 
 *<u>Note</u>: Four courses are required. Students can choose any two additional courses (MC 250, KNES 201, KNES 221, KNES 222, KNES 401, SPM 409, SPM 417) for a total of 18 credit hours.*
 
-172
 
-173
 
 ## Master of Arts (MA) in Mass Communication
 
@@ -9534,7 +9363,6 @@ Students must also select <u>one</u> statistics course from the following:
 | Mass Communication 585 | 3 |
 | Mass Communication 590 | 3 |
 
-173
 
 | Mass Communication 594 | 3 |  |
 | --- | --- | --- |
@@ -9588,7 +9416,6 @@ The Psychology options prepare students for careers in counseling, social work a
 
 The Clinical/Counseling degree track prepares students for careers as clinical, behavioral health, child psychology, school and rehabilitation counselors. The African Psychology degree track focuses on the intersection of psychology and African culture, encompassing clinical practice, research,
 
-174
 
 education, and community-based work. These roles often address unique mental health needs and cultural contexts within African communities. The General Psychology degree track prepares students for possible careers including clinical, counseling, school psychologist, forensics, industrial-organizational, and various roles in research, human resources, and social work.
 
@@ -9665,7 +9492,6 @@ The <u>Psychology Program</u> will award up to 18 ACE credits to the degree as f
 | Total Hours | 31 |
 | TOTAL | 120 |
 
-175
 
 # Psychology, General Curriculum Plan
 
@@ -9747,7 +9573,6 @@ The Bachelor of Science in Nursing degree program involves pre-nursing and profe
 
 The pre-nursing component includes 60 hours of specified courses. The professional component contains 60 semester hours. The General Education requirements of the University are met in the pre-
 
-176
 
 nursing component. Students should consult their faculty advisors prior to each semester’s registration.
 
@@ -9842,7 +9667,6 @@ The School of Nursing does not recognize academic renewal, amnesty, or bankruptc
 
 * Awarded an Associate of Science in Nursing degree
 
-177
 
 ## RN to BSN
 ## Curriculum Plan
@@ -9927,7 +9751,6 @@ The mission of the Nurse Educator Program is to prepare nurse educators for the 
 
 Prior to beginning clinical rotations in all of the MSN options, the graduate student must provide written documentation of the following:
 
-178
 
 * Current unencumbered RN licensure.
 
@@ -10051,7 +9874,6 @@ Prior to beginning clinical rotations in all of the MSN options, the graduate st
 | Nursing 580 or 590 | 3 |
 | Nursing 599 | 0 |
 
-179
 
 | Total Hours | 8 |
 | --- | --- |
@@ -10187,7 +10009,6 @@ Prior to beginning clinical rotations in all of the MSN options, the graduate st
 | --- | --- |
 | Nursing 530 | 1 |
 
-180
 
 | Nursing 535 | 3 |
 | --- | --- |
@@ -10294,7 +10115,6 @@ The goals of the Bachelor of Social Work program are:
 
 * To prepare students for generalist practice with rural populations, particularly in North Central Louisiana;
 
-181
 
 * To prepare students for entry level generalist social work practice to engage, assess, intervene, and evaluate individuals, families, groups, organizations and communities as client systems;
 
@@ -10346,7 +10166,6 @@ Application for formal admission to the professional undergraduate program in th
 
 * Personal characteristics suitable to the Social Work profession as determined by an evaluation;
 
-182
 
 * The student’s signature showing a commitment to a code of ethical conduct;
 
@@ -10426,7 +10245,6 @@ Fee of $50.00 is required for each field education course.
 | Social Work 405 | 3 |
 | Social Work 414 | 3 |
 
-183
 
 | Social Work 417 | 8 |  |
 | --- | --- | --- |
@@ -10482,7 +10300,6 @@ The Post-Baccalaureate Certificate program requires eighteen (18) hours of core 
 | Social Work 507 | 3 |
 |  | Total Hours |
 
-184
 
 # Master of Social Work (M.S.W.)
 
@@ -10552,7 +10369,6 @@ The program is characterized by a strong commitment to social work values and et
 
 * Three letters of reference, including a letter from a professional;
 
-185
 
 * A cumulative GPA of a 3.0 for regular admissions and a 2.5 overall for conditional admissions or a 2.75 for the last 60 hours;
 
@@ -10614,7 +10430,6 @@ A Field Education Fee of $ 50.00 is required for each field education course.
 
 1 Year, Advanced Standing program: **39**
 
-186
 
 ## Master of Social Work
 ## Curriculum Plan-*Full Time*
@@ -10707,9 +10522,7 @@ A Field Education Fee of $ 50.00 is required for each field education course.
 | Total Hours | 15 |
 | TOTAL | 39 |
 
-187
 
-188
 
 <visual_elements>
 

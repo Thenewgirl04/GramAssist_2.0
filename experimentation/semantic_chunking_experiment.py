@@ -20,7 +20,6 @@ import json
 from langchain_experimental.text_splitter import SemanticChunker
 from langchain_huggingface import HuggingFaceEmbeddings
 
-
 markdown = Path(
     "data/raw/GSU Catalog 2024-2026 cleaned.md"
 ).read_text()
