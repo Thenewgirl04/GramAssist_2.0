@@ -4,3 +4,5 @@
 
 tools/__pycache__/
 utils/__pycache__/
+rag_pipeline/__pycache__/
+advisor_agent/__pycache__/

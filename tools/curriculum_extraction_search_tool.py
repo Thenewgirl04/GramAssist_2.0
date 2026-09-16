@@ -24,28 +24,47 @@ def get_classification_curriculum(classification: str) -> dict:
     return {"error": f"Classification '{classification}' not found"}
 
 
-def get_course(course_number: str) -> dict:
+def get_courses(course_numbers: list[str]) -> list[dict]:
     """
-        Retrieves curriculum information for a specific course.
+    Retrieves curriculum information for one or more specific courses.
 
-        Use this tool to find a course's name, credit hours, and prerequisites.
+    Use this tool to find course names, credit hours, and prerequisites.
+    When information is needed for multiple courses, provide all course
+    numbers in a single call instead of calling this tool separately.
 
-        Args:
-            course_number: The course number, for example "CS 310".
+    Args:
+        course_numbers: A list of course numbers, for example
+            ["CS 310", "PHYS 111", "PHYS 112"].
 
-        Returns:
-            The course information if found, otherwise an error message.
-        """
+    Returns:
+        A list containing the information for each requested course.
+        Courses that are not found are returned with an error message.
+    """
     with open(CURRICULUM_PATH, "r") as file:
         curriculum = json.load(file)
 
+    all_courses = []
+
     for level in curriculum["classifications"]:
-        for course in level["courses"]:
+        all_courses.extend(level["courses"])
+
+    all_courses.extend(curriculum["electives"]["courses"])
+
+    results = []
+
+    for course_number in course_numbers:
+        course_found = None
+
+        for course in all_courses:
             if course["number"].lower() == course_number.lower():
-                return course
+                course_found = course
+                break
 
-    for course in curriculum["electives"]["courses"]:
-        if course["number"].lower() == course_number.lower():
-            return course
+        if course_found:
+            results.append(course_found)
+        else:
+            results.append({
+                "error": f"Course '{course_number}' not found"
+            })
 
-    return {"error": f"Course '{course_number}' not found"}
+    return results
